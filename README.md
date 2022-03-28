@@ -2,9 +2,9 @@
 
 <strong><h1 align='center'>UNIX Shellscript Collection</h1></strong>
 <p align="center">
-<strong><a href="https://raw.githubusercontent.com/sera619/BashDIC/master/BackupGEN.sh">BackPack</a></strong>
+<strong><a href="https://github.com/sera619/BashDIC/blame/master/BackPack.sh">BackPack</a></strong>
 |
-<strong><a href="https://github.com/sera619/BashDIC/blob/master/YDTM.sh">YDNM</a></strong>
+<strong><a href="https://github.com/sera619/BashDIC/raw/master/YDNM.sh">YDNM</a></strong>
 </p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
@@ -27,7 +27,7 @@
 > - ### YDNM - You dont know me ###
 >
 >   - simple script to clean up log files on system
->       - should be run as root
+>     - should be run as root
 
 ## Usage ##
 
