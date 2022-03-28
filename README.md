@@ -1,6 +1,5 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
 <strong><h1 align='center'>UNIX Shellscript Collection</h1></strong>
----
 <p align="center">
 <strong><a href="https://raw.githubusercontent.com/sera619/BashDIC/master/BackupGEN.sh">Backup</a></strong>
 |
