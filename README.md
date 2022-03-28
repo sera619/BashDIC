@@ -4,7 +4,7 @@
 <p align="center">
 <strong><a href="https://raw.githubusercontent.com/sera619/BashDIC/master/BackupGEN.sh">Backup</a></strong>
 |
-<strong><a href="#link2">Clean Logs</a></strong>
+<strong><a href="https://github.com/sera619/BashDIC/blob/master/YDTM.sh">Clean Logs</a></strong>
 </p>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
@@ -12,7 +12,7 @@
 > - [Usage](##Usage)
 > - [Content](#Content)
 >   - [BackPack](BackupGEN.sh)
->   - [YDKM](YDTM.sh)
+>   - [YDKM](YDNM.sh)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-)
 
@@ -20,13 +20,14 @@
 
 > Some usefull bash scripts for UNIX systems
 >
-> - ### Backup ###
+> - ### BackPack ###
 >
 >   - backup a directory in a .tgz
 >
-> - ### You dont know me ###
+> - ### YDNM You dont know me ###
 >
->   - simple script to clean up log files on system
+>   - simple script to clean up log files on system 
+>       - should be run as root
 
 ## Usage ##
 
