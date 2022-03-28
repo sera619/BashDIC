@@ -26,7 +26,7 @@
 >
 > - ### YDNM - You dont know me ###
 >
->   - simple script to clean up log files on system 
+>   - simple script to clean up log files on system
 >       - should be run as root
 
 ## Usage ##
