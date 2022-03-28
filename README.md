@@ -24,7 +24,7 @@
 >
 >   - backup a directory in a .tgz
 >
-> - ### YDNM You dont know me ###
+> - ### YDNM - You dont know me ###
 >
 >   - simple script to clean up log files on system 
 >       - should be run as root
