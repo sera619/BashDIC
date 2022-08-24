@@ -28,6 +28,11 @@
 >
 >   - simple script to clean up log files on system
 >     - should be run as root
+>
+> - ### ZSH History Fix ###
+>
+>   - fix the common ZSH shell issue
+
 
 ## Usage ##
 
